@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "FsSlackLib", "FsSlackLib\FsSlackLib.fsproj", "{1C17408C-90B7-4FB6-A3B1-25D4CE25A909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C17408C-90B7-4FB6-A3B1-25D4CE25A909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C17408C-90B7-4FB6-A3B1-25D4CE25A909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C17408C-90B7-4FB6-A3B1-25D4CE25A909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C17408C-90B7-4FB6-A3B1-25D4CE25A909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CFD2179-D1D7-47A7-9A58-100D1979895C}
+	EndGlobalSection
+EndGlobal

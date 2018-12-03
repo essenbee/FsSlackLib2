@@ -1,2 +1,2 @@
-# FsSlackLib2
-Slack Client Library in F#
+# FsSlackLib
+A Slack Client API Library written in F#, with support for the Real Time Messaging API (RTM) using websockets. The primary reason for creating this library is to have a concrete project to use whilst I learn F#. That being said, the intention is to build it out to offer full functionality, and become a replacement for the Slack client library that I currently use in my Slack Bot project.
